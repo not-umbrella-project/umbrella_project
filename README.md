@@ -38,3 +38,4 @@ see `Server`
 - edit this page by editing the README.md
   - how to use markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   - use two-space tabs
+- become a collaborator by making a pull request and give your github account
