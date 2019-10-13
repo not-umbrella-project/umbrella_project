@@ -24,6 +24,8 @@ Oreo? | Nathan | Charlie | Gabriel | [name]
 - OS: linux
 - Automation: bash auto command and python
 - Connection: the server will be a file server host. The server and clients and update and read files in the server.
+##### Python coding
+- use 4-space tabs
 
 `database`: if time and slave-power permit, we can have a SQL database. Else, we can just append data into a python file.
 
@@ -31,3 +33,8 @@ Oreo? | Nathan | Charlie | Gabriel | [name]
 ### Mechanical harware
 ### Database
 see `Server`
+
+### Working
+- edit this page by editing the README.md
+  - how to use markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+  - use two-space tabs
