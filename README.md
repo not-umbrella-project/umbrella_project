@@ -40,14 +40,17 @@ see `Server`
 by github desktop:
 1. download & install github desktop 
 2. sign in your account and connect to this repo
+3. create branch [your name] and switch to branch [your name] by 
 3. do your work (edit code or upload file)
-4. push the commits by clicking "Commit to master" and "push origin"
+4. Commit to [your name], and publish branch, and create a pull request
+
 By online website:
 1. sign in your account and open this repo
 2. choose a file
 3. edit
 4. Create a new branch for this commit and start a pull request. 
 
+- **do not edit branch masters** 
 - edit this page by editing the README.md
   - how to use markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   - use two-space tabs
