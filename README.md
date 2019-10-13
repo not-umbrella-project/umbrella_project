@@ -1,4 +1,4 @@
-# not umbrella_project
+# not umbrella project
 
 Welcome! This is the offical repo and site for the **`SHSID Umbrella Project`** aka **`SUP`**. All of our codes are released opensource under the GNU GPLv3 license.  
 
