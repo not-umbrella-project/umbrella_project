@@ -35,15 +35,16 @@ Oreo? | Nathan | Charlie | Gabriel | [name]
 see `Server`
 
 ## Working
-- edit this page by editing the README.md
-  - how to use markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-  - use two-space tabs
-- become a collaborator by adding a `New issue` with title "I want to collaborate" 
+
 #### How to use github
 1. download github desktop 
 2. sign in your account and connect to this repo
 3. do your work (edit code or upload file)
 4. push the commits by clicking "Commit to master" and "push origin"
+- edit this page by editing the README.md
+  - how to use markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+  - use two-space tabs
+- become a collaborator by adding a `New issue` with title "I want to collaborate" 
 
 ## Legacy
 - old plan: https://docs.google.com/document/d/1oUhRmeea8hRAXmo-2FVVrQvy0d3Rjce0EDmeTppgUNs/edit?usp=sharing
