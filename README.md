@@ -10,7 +10,7 @@ Welcome! This is the offical repo and site for the **`SHSID Umbrella Project`** 
 ## Work distribution
 User interface, server, and electric hardware are connected. Members in each group is responsible to cooperate with their adjacent groups to work on compatibility and connection
 
-User Interface | Server | Electric hardware | Mechanical hardware | Database
+User Interface | Server | Electronic hardware | Mechanical hardware | Database
 --- | --- | --- | --- | ---
 Oreo? | Nathan | Charlie | Gabriel | [name]
 [name] | [name ]| [name] | [name] | [name]
@@ -29,7 +29,7 @@ Oreo? | Nathan | Charlie | Gabriel | [name]
 
 `database`: if time and slave-power permit, we can have a SQL database. Else, we can just append data into a python file.
 
-## Electric hardware
+## Electronic hardware
 ## Mechanical harware
 ## Database
 see `Server`
