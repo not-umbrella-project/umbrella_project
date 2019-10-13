@@ -53,7 +53,7 @@ by online website:
 6. propose file change
 7. create pull request
 
-- **do not edit branch masters** 
+- **do not edit branch "master"** 
 - edit this page by editing the README.md
   - how to use markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   - use two-space tabs
