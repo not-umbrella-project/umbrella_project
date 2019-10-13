@@ -1,5 +1,8 @@
-#python3 server script
+#get data and control clients
+#python3
 import os
+import subprocess
+#https://stackoverflow.com/questions/3730964/python-script-execute-commands-in-terminal
 from datetime import datetime
 
 
@@ -10,6 +13,7 @@ def command(message, client):
 
 #read [client]_data.py to get data
 def get_data(client):
+
 
 
 #main loop
