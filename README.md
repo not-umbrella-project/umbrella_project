@@ -41,8 +41,8 @@ by github desktop:
 1. download & install github desktop 
 2. sign in your account and connect to this repo
 3. create branch [your name] and switch to branch [your name] 
-3. do your work (edit code or upload file)
-4. Commit to [your name], and publish branch, and create a pull request
+4. do your work (edit code or upload file)
+5. Commit to [your name], and publish branch, and create a pull request
 
 By online website:
 1. sign in your account and open this repo
