@@ -37,10 +37,17 @@ see `Server`
 ## Working
 
 #### How to use github
-1. download github desktop 
+by github desktop:
+1. download & install github desktop 
 2. sign in your account and connect to this repo
 3. do your work (edit code or upload file)
 4. push the commits by clicking "Commit to master" and "push origin"
+By online website:
+1. sign in your account and open this repo
+2. choose a file
+3. edit
+4. Create a new branch for this commit and start a pull request. 
+
 - edit this page by editing the README.md
   - how to use markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   - use two-space tabs
