@@ -20,13 +20,10 @@ Oreo? | Nathan | Charlie | Gabriel | [name]
 ### User Interface
 
 ### Server 
-Host: undecided, see **`To Do`** `3.`.
-OS: debian based linux
-
-Automation: bash auto command and python
-
-
-Connection: the server will be a file server host. The server and clients and update and read files in the server.
+- Host: undecided, see **`To Do`** `3.`.
+- OS: linux
+- Automation: bash auto command and python
+- Connection: the server will be a file server host. The server and clients and update and read files in the server.
 
 `database`: if time and slave-power permit, we can have a SQL database. Else, we can just append data into a python file.
 
