@@ -42,13 +42,16 @@ by github desktop:
 2. sign in your account and connect to this repo
 3. create branch [your name] and switch to branch [your name] 
 4. do your work (edit code or upload file)
-5. Commit to [your name], and publish branch, and create a pull request
+5. commit to [your name], and publish branch, and create a pull request
 
 By online website:
 1. sign in your account and open this repo
 2. choose a file
 3. edit
-4. Create a new branch for this commit and start a pull request. 
+4. choose "Create a new branch for this commit and start a pull request."
+5. enter [your name]
+6. propose file change
+7. create pull request
 
 - **do not edit branch masters** 
 - edit this page by editing the README.md
