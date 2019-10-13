@@ -44,7 +44,7 @@ by github desktop:
 4. do your work (edit code or upload file)
 5. commit to [your name], and publish branch, and create a pull request
 
-By online website:
+by online website:
 1. sign in your account and open this repo
 2. choose a file
 3. edit
