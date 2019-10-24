@@ -13,11 +13,12 @@ User interface, server, and electric hardware are connected. Members in each gro
 User Interface | Server | Electronic hardware | Mechanical hardware | Database
 --- | --- | --- | --- | ---
 Oreo | Nathan | Charlie | Andy | [name]
-Elijah | [name ]| [name] | Hugo | [name]
+Elijah | [name]| Tim | Hugo | [name]
 
 
 (replace [name] with your name, and make a new row with |||)
 
+finish prototype before winter break ends
 ## User Interface
 
 ## Server 
@@ -70,4 +71,3 @@ by online website:
 
 ## Legacy
 - old plan: https://docs.google.com/document/d/1oUhRmeea8hRAXmo-2FVVrQvy0d3Rjce0EDmeTppgUNs/edit?usp=sharing
-
