@@ -12,14 +12,16 @@ User interface, server, and electric hardware are connected. Members in each gro
 
 User Interface | Server | Electronic hardware | Mechanical hardware | Database
 --- | --- | --- | --- | ---
-Oreo? | Nathan | Charlie | Gabriel | [name]
-[name] | [name ]| [name] | [name] | [name]
+Oreo | Nathan | Charlie | Andy | [name]
+Elijah | [name ]| [name] |  | [name]
 
 (replace [name] with your name, and make a new row with |||)
 
 ## User Interface
 
 ## Server 
+
+Use paid server. decided on 10.24.2019 meeting
 - Host: undecided, see **`To Do`** `3.`.
 - OS: linux
 - Automation: bash auto command and python
