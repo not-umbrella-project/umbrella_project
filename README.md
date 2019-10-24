@@ -69,5 +69,8 @@ by online website:
   - use two-space tabs
 - become a collaborator by adding a `New issue` with title "I want to collaborate" 
 
+#### Meeting log
+https://docs.google.com/document/d/10bwwHpWueN1nkzjn77veoCJAokLBQxVc_gkLEqkk_q8/edit?usp=sharing
+
 ## Legacy
 - old plan: https://docs.google.com/document/d/1oUhRmeea8hRAXmo-2FVVrQvy0d3Rjce0EDmeTppgUNs/edit?usp=sharing
