@@ -33,11 +33,16 @@ Use paid server. decided on 10.24.2019 meeting
 
 `database`: if time and slave-power permit, we can have a SQL database. Else, we can just append data into a python file.
 
-## Electronic hardware
-#### Connection to server:
+#### sending data
 1. use arduino wifi board
 2. send jason file to IP
-3. ?????
+3. python natives
+
+##### settled: python socket between servers
+
+
+## Electronic hardware
+
 
 ## Mechanical harware
 

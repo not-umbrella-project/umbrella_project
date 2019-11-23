@@ -49,7 +49,6 @@ def push_data(HOST, PORT, message, client):
                 conn.sendall(data)
                 print(data)
 
-
 #read [client]_data.py to get data ///to be changed
 def get_data(client):
         #
