@@ -38,6 +38,7 @@ def push_data(HOST, PORT, message, client):
     #status: WORKING
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         s.bind((HOST, PORT))
+        #https://docs.bitnami.com/virtual-machine/faq/administration/use-firewall/
         s.listen()
         conn, addr = s.accept()
         with conn:
