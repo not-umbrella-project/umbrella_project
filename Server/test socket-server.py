@@ -1,20 +1,27 @@
+def ifStringLenGreaterThan3(a):
+    if len(a)>3:
+        return "true"
+    else:
+        return "false"
 
 import socket
-print("debug")
 HOST = ''
 PORT = 22222
 sends = b's'
-s=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s.bind((HOST, PORT))
-s.listen()
-conn, addr = s.accept()
+while 1:
+    s=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    s.bind((HOST, PORT))
+    s.listen()
+    conn, addr = s.accept()
 
-print('Connected by', addr)
+    print('Connected by', addr)
+    data = conn.recv(4096)
+    if not data:
+        print("not data")
+    else:
+        d= data.decode()
+        conn.sendall(ifStringLenGreaterThan3(d).encode())
 
-data = conn.recv(4096)
-d= data.decode()
-print(type(d))
-if not data:
-    print("not data")
 
-conn.sendall(sends)
+
+
