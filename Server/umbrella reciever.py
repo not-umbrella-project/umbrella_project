@@ -1,19 +1,15 @@
 import socket
 
-HOST = '192.168.1.8'
-PORT = 22345
+HOST = '34.80.90.238'
+PORT = 22222
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-print(1)
 s.connect((HOST, PORT))
-print(2)
-s.sendall('faaaaaaafrom my laptop vrerhjkbaef')
+s.sendall(b'f')
 data = s.recv(1024)
 
 print('Received', repr(data))
+print(data)
+s.sendall(b'f')
 
-while 1:
-    a = raw_input("send here: " )
-    a = str("'"+a+"'")
-    print(a)
-    s.sendall(a)
+
