@@ -14,6 +14,11 @@ def talk_to_server(server_address, server_port, egress_message):
     ingress_message = data.decode()
     return ingress_message
 
-port = '34.80.90.238' #'192.168.1.15'
-print(talk_to_server(port, 22222,"aaa"))
+
+print(talk_to_server('34.80.90.238', 22222,"aaa"))
+print(talk_to_server('34.80.90.238', 22222,"texthere"))
+print(talk_to_server('34.80.90.238', 22222,"afrefsefr"))
+print(talk_to_server('34.80.90.238', 22222,"argserga"))
+print(talk_to_server('34.80.90.238', 22222,"gtr"))
+print(talk_to_server('34.80.90.238', 22222,"cresre"))
 
