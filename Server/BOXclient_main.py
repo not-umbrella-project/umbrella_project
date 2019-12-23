@@ -16,9 +16,5 @@ def talk_to_server(server_address, server_port, egress_message):
 
 
 print(talk_to_server('34.80.90.238', 22222,"aaa"))
-print(talk_to_server('34.80.90.238', 22222,"texthere"))
-print(talk_to_server('34.80.90.238', 22222,"afrefsefr"))
-print(talk_to_server('34.80.90.238', 22222,"argserga"))
-print(talk_to_server('34.80.90.238', 22222,"gtr"))
-print(talk_to_server('34.80.90.238', 22222,"cresre"))
+
 
