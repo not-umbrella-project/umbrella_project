@@ -16,5 +16,3 @@ def talk_to_server(server_address, server_port, egress_message):
 
 
 print(talk_to_server('34.80.90.238', 22222,"clo"))
-
-
