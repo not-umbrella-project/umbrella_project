@@ -7,7 +7,6 @@ def ifStringLenGreaterThan3(a):
 import socket
 HOST = ''
 PORT = 22222
-sends = b's'
 while 1:
     s=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.bind((HOST, PORT))
