@@ -14,7 +14,6 @@ def talk_to_server(server_address, server_port, egress_message):
     ingress_message = data.decode()
     return ingress_message
 
-
-print(talk_to_server('192.168.1.15', 22222,"aaa"))
-print(talk_to_server('192.168.1.15', 22222,"aaaa"))
+port = '34.80.90.238' #'192.168.1.15'
+print(talk_to_server(port, 22222,"aaa"))
 

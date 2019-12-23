@@ -1,5 +1,5 @@
 import socket
-
+#HOST = '34.80.90.238'
 HOST = '192.168.1.15'
 PORT = 22222
 message = "aaa"
