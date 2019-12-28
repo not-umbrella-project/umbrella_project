@@ -10,18 +10,30 @@ def talk_to_server(server_address, server_port, egress_message):
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.connect((server_address, server_port))
     s.sendall(egress_message.encode())
+    print("NEW cccc")
 
     i=1
-    while 1:
+    while i<10:
         s.sendall(str(i).encode())
-        i+=1
+
+        data = s.recv(4096)
+        ingress_message = data.decode()
+        #return ingress_message
+        print(ingress_message, type(ingress_message))
         time.sleep(0.1)
+        print(i)
+        i+=1
+    print("breaked")
+    s.close()
 
-    data = s.recv(4096)
-    ingress_message = data.decode()
-    return ingress_message
-
+    
 
 #print(talk_to_server('34.80.90.238', 22222,"aa"))
 print(talk_to_server('127.0.0.1', 22222,"aa\n"))
+print("also breaked")
+
+print(talk_to_server('127.0.0.1', 22222,"aa\n"))
+print("sregr")
+print(talk_to_server('127.0.0.1', 22222,"aa\n"))
+
 
