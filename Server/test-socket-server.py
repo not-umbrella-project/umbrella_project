@@ -15,12 +15,14 @@ while 1:
     conn, addr = s.accept()
 
     print('Connected by', addr)
-    data = conn.recv(4096)
-    if not data:
-        print("not data")
-    else:
-        d= data.decode()
-        conn.sendall(ifStringLenGreaterThan3(d).encode())
+    while (conn.fileno() !=-1):
+        data = conn.recv(4096)
+        if not data:
+            print("not data")
+        else:
+            d= data.decode()
+            print(d)
+            conn.sendall(ifStringLenGreaterThan3(d).encode())
 
 
 
