@@ -1,4 +1,4 @@
-
+import time
 #send egress_message to server at (server_address, server_port), and return received message
 def talk_to_server(server_address, server_port, egress_message):
     #imports
@@ -10,9 +10,18 @@ def talk_to_server(server_address, server_port, egress_message):
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.connect((server_address, server_port))
     s.sendall(egress_message.encode())
+
+    i=1
+    while 1:
+        s.sendall(str(i).encode())
+        i+=1
+        time.sleep(0.1)
+
     data = s.recv(4096)
     ingress_message = data.decode()
     return ingress_message
 
 
-print(talk_to_server('34.80.90.238', 22222,"clo"))
+#print(talk_to_server('34.80.90.238', 22222,"aa"))
+print(talk_to_server('127.0.0.1', 22222,"aa\n"))
+
