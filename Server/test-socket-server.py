@@ -7,7 +7,7 @@ def ifStringLenGreaterThan3(a):
 
 import socket
 HOST = ''
-PORT = 22222
+PORT = 33080
 no_data = 0
 while 1:
     s=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -15,7 +15,7 @@ while 1:
     s.listen()
     conn, addr = s.accept()
 
-    print('Connected by', addr)
+    print('debug: Connected by', addr)
     
     while (conn.fileno() !=-1):
         try:
@@ -26,7 +26,7 @@ while 1:
             else:
                 d= data.decode()
                 print(d)
-            conn.sendall(("RECIEVED "+ifStringLenGreaterThan3(d)).encode())
+            conn.sendall(("ni ye aoligei +"+ifStringLenGreaterThan3(d)).encode())
         except:
             print("Disconnected by",addr)
             break
