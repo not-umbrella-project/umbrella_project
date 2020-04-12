@@ -18,11 +18,15 @@ while 1:
     print('debug: Connected by', addr)
     
     while (conn.fileno() !=-1):
+        print(1)
         try:
             data = conn.recv(4096)
             print("data:",data)
             if not data:
-                print("not data")
+                not_data+=1
+                if not_data> 6:
+                    not_data=0
+                    print("not data")
             else:
                 d= data.decode()
                 print(d)

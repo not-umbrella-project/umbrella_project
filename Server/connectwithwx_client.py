@@ -6,6 +6,7 @@ except:
 
 
 server_address ='34.80.90.238'
+#server_address ='127.0.0.1'
 server_port=33080
 message= "aoligei!"
 
