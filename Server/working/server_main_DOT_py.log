@@ -1,0 +1,138 @@
+2020-40-24 08:40:37 root:INFO:started
+2020-40-24 08:40:37 root:CRITICAL:trying to create new file with existing name
+2020-40-24 08:40:37 root:CRITICAL:trying to create new file with existing name
+2020-40-24 08:40:37 root:INFO:main loop also started
+2020-41-24 08:41:15 root:INFO:started
+2020-41-24 08:41:15 root:CRITICAL:trying to create new file with existing name
+2020-41-24 08:41:15 root:CRITICAL:trying to create new file with existing name
+2020-41-24 08:41:15 root:INFO:main loop also started
+2020-41-24 08:41:39 root:INFO:started
+2020-41-24 08:41:39 root:CRITICAL:trying to create new file with existing name
+2020-41-24 08:41:39 root:INFO:main loop also started
+2020-44-24 08:44:54 root:INFO:started
+2020-44-24 08:44:54 root:CRITICAL:trying to create new file with existing name
+2020-44-24 08:44:54 root:INFO:main loop also started
+2020-45-24 08:45:04 root:INFO:started
+2020-45-24 08:45:04 root:CRITICAL:trying to create new file with existing name
+2020-45-24 08:45:04 root:INFO:main loop also started
+2020-45-24 08:45:44 root:INFO:started
+2020-45-24 08:45:44 root:CRITICAL:trying to create new file with existing name
+2020-45-24 08:45:44 root:CRITICAL:data file header isn't r or b
+2020-45-24 08:45:44 root:INFO:main loop also started
+2020-45-24 08:45:58 root:INFO:started
+2020-45-24 08:45:58 root:CRITICAL:trying to create new file with existing name
+2020-45-24 08:45:58 root:CRITICAL:data file header isn't r or b
+2020-45-24 08:45:58 root:INFO:main loop also started
+2020-46-24 08:46:05 root:INFO:started
+2020-46-24 08:46:05 root:CRITICAL:trying to create new file with existing name
+2020-46-24 08:46:05 root:CRITICAL:data file header isn't r or b
+2020-46-24 08:46:05 root:INFO:main loop also started
+2020-46-24 08:46:14 root:INFO:started
+2020-46-24 08:46:14 root:CRITICAL:trying to create new file with existing name
+2020-46-24 08:46:14 root:INFO:main loop also started
+2020-46-24 08:46:20 root:INFO:started
+2020-46-24 08:46:20 root:CRITICAL:trying to create new file with existing name
+2020-46-24 08:46:20 root:INFO:main loop also started
+2020-46-24 08:46:26 root:INFO:started
+2020-46-24 08:46:26 root:CRITICAL:trying to create new file with existing name
+2020-46-24 08:46:26 root:INFO:main loop also started
+2020-47-24 08:47:08 root:INFO:started
+2020-47-24 08:47:08 root:CRITICAL:trying to create new file with existing name
+2020-47-24 08:47:21 root:INFO:started
+2020-47-24 08:47:21 root:CRITICAL:trying to create new file with existing name
+2020-47-24 08:47:29 root:INFO:started
+2020-47-24 08:47:29 root:CRITICAL:trying to create new file with existing name
+2020-47-24 08:47:29 root:CRITICAL:data file header isn't r or b
+2020-47-24 08:47:29 root:INFO:main loop also started
+2020-18-24 09:18:50 root:INFO:started
+2020-18-24 09:18:50 root:CRITICAL:trying to create new file with existing name
+2020-18-24 09:18:50 root:CRITICAL:data file header isn't r or b
+2020-18-24 09:18:50 root:INFO:main loop also started
+2020-31-24 09:31:49 root:INFO:started
+2020-31-24 09:31:49 root:CRITICAL:trying to create new file with existing name
+2020-31-24 09:31:49 root:CRITICAL:data file header isn't r or b
+2020-31-24 09:31:49 root:INFO:main loop also started
+2020-37-24 09:37:27 root:INFO:started
+2020-37-24 09:37:38 root:INFO:started
+2020-37-24 09:37:48 root:INFO:started
+2020-37-24 09:37:56 root:INFO:started
+2020-37-24 09:37:56 root:CRITICAL:trying to create new file with existing name
+2020-37-24 09:37:56 root:CRITICAL:data file header isn't r or b
+2020-37-24 09:37:56 root:INFO:main loop also started
+2020-38-24 09:38:10 root:INFO:started
+2020-38-24 09:38:10 root:CRITICAL:trying to create new file with existing name
+2020-38-24 09:38:10 root:CRITICAL:data file header isn't r or b
+2020-38-24 09:38:10 root:INFO:main loop also started
+2020-39-24 09:39:28 root:INFO:started
+2020-39-24 09:39:43 root:INFO:started
+2020-39-24 09:39:43 root:CRITICAL:trying to create new file with existing name
+2020-39-24 09:39:43 root:CRITICAL:data file header isn't r or b
+2020-39-24 09:39:43 root:INFO:main loop also started
+2020-40-24 09:40:19 root:INFO:started
+2020-40-24 09:40:19 root:CRITICAL:trying to create new file with existing name
+2020-40-24 09:40:19 root:CRITICAL:data file header isn't r or b
+2020-40-24 09:40:19 root:INFO:main loop also started
+2020-40-24 09:40:24 root:INFO:started
+2020-40-24 09:40:24 root:CRITICAL:trying to create new file with existing name
+2020-40-24 09:40:24 root:CRITICAL:data file header isn't r or b
+2020-40-24 09:40:24 root:INFO:main loop also started
+2020-40-24 09:40:56 root:INFO:started
+2020-40-24 09:40:56 root:CRITICAL:trying to create new file with existing name
+2020-40-24 09:40:56 root:CRITICAL:data file header isn't r or b
+2020-40-24 09:40:56 root:INFO:main loop also started
+2020-41-24 09:41:22 root:INFO:started
+2020-41-24 09:41:22 root:CRITICAL:trying to create new file with existing name
+2020-41-24 09:41:22 root:CRITICAL:data file header isn't r or b
+2020-41-24 09:41:22 root:INFO:main loop also started
+2020-41-24 09:41:33 root:INFO:started
+2020-41-24 09:41:33 root:CRITICAL:trying to create new file with existing name
+2020-41-24 09:41:33 root:CRITICAL:data file header isn't r or b
+2020-41-24 09:41:33 root:INFO:main loop also started
+2020-41-24 09:41:41 root:INFO:started
+2020-41-24 09:41:41 root:CRITICAL:trying to create new file with existing name
+2020-41-24 09:41:41 root:CRITICAL:data file header isn't r or b
+2020-41-24 09:41:41 root:INFO:main loop also started
+2020-43-24 09:43:25 root:INFO:started
+2020-43-24 09:43:25 root:CRITICAL:data file header isn't r or b
+2020-43-24 09:43:25 root:INFO:main loop also started
+2020-44-24 09:44:00 root:INFO:started
+2020-44-24 09:44:00 root:CRITICAL:trying to create new file with existing name
+2020-44-24 09:44:00 root:CRITICAL:data file header isn't r or b
+2020-44-24 09:44:00 root:INFO:main loop also started
+2020-44-24 09:44:45 root:INFO:started
+2020-44-24 09:44:45 root:CRITICAL:data file header isn't r or b
+2020-44-24 09:44:45 root:INFO:main loop also started
+2020-45-24 09:45:33 root:INFO:started
+2020-45-24 09:45:33 root:CRITICAL:data file header isn't r or b
+2020-45-24 09:45:33 root:INFO:main loop also started
+2020-45-24 09:45:59 root:INFO:started
+2020-45-24 09:45:59 root:CRITICAL:trying to create new file with existing name
+2020-45-24 09:45:59 root:CRITICAL:data file header isn't r or b
+2020-45-24 09:45:59 root:INFO:main loop also started
+2020-46-24 09:46:16 root:INFO:started
+2020-46-24 09:46:16 root:CRITICAL:data file header isn't r or b
+2020-46-24 09:46:16 root:INFO:main loop also started
+2020-46-24 09:46:58 root:INFO:started
+2020-46-24 09:46:58 root:CRITICAL:trying to create new file with existing name
+2020-46-24 09:46:58 root:CRITICAL:data file header isn't r or b
+2020-46-24 09:46:58 root:INFO:main loop also started
+2020-47-24 09:47:05 root:INFO:started
+2020-47-24 09:47:06 root:CRITICAL:trying to create new file with existing name
+2020-47-24 09:47:06 root:CRITICAL:data file header isn't r or b
+2020-47-24 09:47:06 root:INFO:main loop also started
+2020-47-24 09:47:22 root:INFO:started
+2020-47-24 09:47:22 root:CRITICAL:trying to create new file with existing name
+2020-47-24 09:47:22 root:CRITICAL:data file header isn't r or b
+2020-47-24 09:47:23 root:INFO:main loop also started
+2020-47-24 09:47:41 root:INFO:started
+2020-47-24 09:47:41 root:CRITICAL:trying to create new file with existing name
+2020-47-24 09:47:41 root:CRITICAL:data file header isn't r or b
+2020-47-24 09:47:41 root:INFO:main loop also started
+2020-47-24 09:47:57 root:INFO:started
+2020-47-24 09:47:57 root:CRITICAL:trying to create new file with existing name
+2020-47-24 09:47:57 root:CRITICAL:data file header isn't r or b
+2020-47-24 09:47:57 root:INFO:main loop also started
+2020-50-24 09:50:14 root:INFO:started
+2020-50-24 09:50:14 root:CRITICAL:trying to create new file with existing name
+2020-50-24 09:50:14 root:CRITICAL:data file header isn't r or b
+2020-50-24 09:50:14 root:INFO:main loop also started
