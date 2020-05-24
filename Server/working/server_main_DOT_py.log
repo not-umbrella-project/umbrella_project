@@ -136,3 +136,77 @@
 2020-50-24 09:50:14 root:CRITICAL:trying to create new file with existing name
 2020-50-24 09:50:14 root:CRITICAL:data file header isn't r or b
 2020-50-24 09:50:14 root:INFO:main loop also started
+2020-42-24 16:42:27 root:INFO:started
+2020-42-24 16:42:27 root:CRITICAL:trying to create new file with existing name
+2020-42-24 16:42:27 root:CRITICAL:data file header isn't r or b
+2020-42-24 16:42:27 root:INFO:main loop also started
+2020-43-24 16:43:01 root:INFO:started
+2020-43-24 16:43:01 root:CRITICAL:trying to create new file with existing name
+2020-43-24 16:43:01 root:CRITICAL:data file header isn't r or b
+2020-43-24 16:43:01 root:INFO:main loop also started
+2020-43-24 16:43:10 root:INFO:started
+2020-43-24 16:43:10 root:CRITICAL:trying to create new file with existing name
+2020-43-24 16:43:10 root:CRITICAL:data file header isn't r or b
+2020-43-24 16:43:10 root:INFO:main loop also started
+2020-43-24 16:43:52 root:INFO:started
+2020-43-24 16:43:52 root:CRITICAL:trying to create new file with existing name
+2020-43-24 16:43:52 root:CRITICAL:trying to create new file with existing name
+2020-43-24 16:43:52 root:INFO:main loop also started
+2020-44-24 16:44:19 root:INFO:started
+2020-44-24 16:44:19 root:CRITICAL:trying to create new file with existing name
+2020-44-24 16:44:19 root:CRITICAL:trying to create new file with existing name
+2020-44-24 16:44:19 root:INFO:main loop also started
+2020-44-24 16:44:44 root:INFO:started
+2020-44-24 16:44:44 root:CRITICAL:trying to create new file with existing name
+2020-44-24 16:44:44 root:INFO:main loop also started
+2020-45-24 16:45:05 root:INFO:started
+2020-45-24 16:45:05 root:CRITICAL:trying to create new file with existing name
+2020-45-24 16:45:05 root:INFO:main loop also started
+2020-46-24 16:46:46 root:INFO:started
+2020-46-24 16:46:46 root:CRITICAL:trying to create new file with existing name
+2020-46-24 16:46:46 root:INFO:main loop also started
+2020-47-24 16:47:06 root:INFO:started
+2020-47-24 16:47:06 root:CRITICAL:trying to create new file with existing name
+2020-47-24 16:47:07 root:INFO:main loop also started
+2020-47-24 16:47:36 root:INFO:started
+2020-47-24 16:47:36 root:CRITICAL:trying to create new file with existing name
+2020-47-24 16:47:36 root:INFO:main loop also started
+2020-47-24 16:47:42 root:INFO:started
+2020-47-24 16:47:42 root:CRITICAL:trying to create new file with existing name
+2020-47-24 16:47:42 root:INFO:main loop also started
+2020-47-24 16:47:53 root:INFO:started
+2020-47-24 16:47:53 root:CRITICAL:trying to create new file with existing name
+2020-47-24 16:47:53 root:INFO:main loop also started
+2020-48-24 16:48:55 root:INFO:started
+2020-48-24 16:48:55 root:CRITICAL:trying to create new file with existing name
+2020-48-24 16:48:55 root:INFO:main loop also started
+2020-49-24 16:49:18 root:INFO:started
+2020-49-24 16:49:18 root:CRITICAL:trying to create new file with existing name
+2020-49-24 16:49:18 root:INFO:main loop also started
+2020-49-24 16:49:53 root:INFO:started
+2020-49-24 16:49:53 root:INFO:main loop also started
+2020-15-24 22:15:55 root:INFO:started
+2020-15-24 22:15:55 root:INFO:main loop also started
+2020-16-24 22:16:27 root:INFO:started
+2020-16-24 22:16:27 root:INFO:main loop also started
+2020-17-24 22:17:21 root:INFO:started
+2020-17-24 22:17:21 root:INFO:main loop also started
+2020-17-24 22:17:21 root:INFO:main loop also started
+2020-18-24 22:18:57 root:INFO:started
+2020-18-24 22:18:57 root:INFO:main loop also started
+2020-21-24 22:21:59 root:INFO:started
+2020-21-24 22:21:59 root:INFO:main loop also started
+2020-32-24 22:32:08 root:INFO:started
+2020-32-24 22:32:08 root:INFO:main loop also started
+2020-32-24 22:32:48 root:INFO:started
+2020-32-24 22:32:48 root:INFO:main loop also started
+2020-32-24 22:32:55 root:INFO:started
+2020-32-24 22:32:55 root:INFO:main loop also started
+2020-33-24 22:33:47 root:INFO:started
+2020-33-24 22:33:48 root:INFO:main loop also started
+2020-34-24 22:34:31 root:INFO:started
+2020-34-24 22:34:31 root:INFO:main loop also started
+2020-34-24 22:34:50 root:INFO:started
+2020-34-24 22:34:50 root:INFO:main loop also started
+2020-43-24 22:43:14 root:INFO:started
+2020-43-24 22:43:14 root:INFO:main loop also started
