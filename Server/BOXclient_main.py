@@ -49,6 +49,7 @@ def talk_to_server(server_address, server_port, egress_message):
 
 
 print(talk_to_server('192.168.1.13', 33080,"aa"))
+
 """
 print(talk_to_server('34.80.90.238', 33080,"aa\n"))
 print("also breaked")
