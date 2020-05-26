@@ -106,9 +106,9 @@ def dataReturned(name):
     file = open(fname, "r")
     h=file.readline(1)
     if h=="r":
-        return 1
+        return 1 #returned
     elif h=="b":
-        return 0
+        return 0 #havent return
     logging.critical("data file header isn't r or b")
 
 def handleBorrow(name):
@@ -116,23 +116,32 @@ def handleBorrow(name):
         dataadduser(name)
     if dataReturned(name)==1:
         datauserborrow(name)
-        return "open, can borrow"
+        return 1#"open, can borrow"
     elif dataReturned(name) == 0:
-        return "don't open, because you haven't return yet "
+        return 2#"don't open, because you haven't return yet "
     else:
-        return "sorry there is a error"
+        return 3#"sorry there is a error"
+
+def handleReturn(name):
+    if isNewUser(name):
+        return 2 #"don't open, because you borrow anything yet"
+    if dataReturned(name)==1:
+        return 2 #"don't open, because you borrow anything yet"
+    elif dataReturned(name) == 0:
+        return 1 #"open, pls"
+    else:
+        return 3#"sorry there is a error"
 
 #def handleReturn(name):
 #integrity check
 
 #testing
-
+"""
 datauserreturn("ddda")
 handleBorrow("ddda")
 file = open("ddda.txt", "r")
 print("\n"+file.read())
-
-
+"""
 
 #main loop
 cycle_count = 0
@@ -165,24 +174,24 @@ while 1:
                     print("not data")
             else:
                 d= data.decode()
-            sent = handleBorrow(d)
+            if d[1]==0:#borrow
+                sent = handleBorrow(d.strip(d[1]))
+            elif d[1]==1: #return
+                sent = handleReturn(d.strip(d[1]))
             print("sent data" + sent)
             conn.sendall(sent.encode())
         except:
             print("Disconnected by",addr)
             break
+
+#error message
+logging.critical("main loop terminated, with " + str(cycle_count*cycle_count_multiplier) + " successful cycles")
 """
-while True:
         UPDATE BOX STATUS
                 USER REQUEST: B, R, NEWUSER
                 PROBLEMS --> ALARM ME
 
-
-        
         if(i>cycle_count_multiplier):
         	cycle_count +=1
         	i=1
-
-#error message
-logging.critical("main loop terminated, with " + str(cycle_count*cycle_count_multiplier) + " successful cycles")
 """
