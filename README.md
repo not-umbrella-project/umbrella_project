@@ -18,7 +18,7 @@ Welcome! This is the offical repo and site for the **`SHSID Umbrella Project`** 
 User interface, server, and electric hardware are connected. Members in each group is responsible to cooperate with their adjacent groups to work on compatibility and connection
 
 User Interface | Server | Electronic hardware | Mechanical hardware | Art n design
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | ---
 Oreo | Nathan | Charlie | Andy | Peter
 Elijah | | | Hugo |
  | | | | Gabriel
