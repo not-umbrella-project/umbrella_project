@@ -3,31 +3,39 @@
 Welcome! This is the offical repo and site for the **`SHSID Umbrella Project`** aka **`SUP`**. All of our codes are released opensource under the GNU GPLv3 license.  
 
 ## To do
-1. think of a cool name 					--PENDING
-2. work distribution 						--DONE
-3. should the project be 一次性 or Legacy	--PENDING
-4. opensource or commercial/patent shiit 	--PENDING
+1. think of a cool name
+2. contact factories to produce model (mechanics) 
+3. start mass production ? (mechanics) 
+4. improve the RFID sensors stability (arduino)
+5. implement and wiring the Arduino with the Umbrella box (arduino)
+6. connect to data base (web)
+7. display users (web)
+8. improve UI (web)
+9. QR code btw server & wx app (server)
+
 
 ## Work distribution
 User interface, server, and electric hardware are connected. Members in each group is responsible to cooperate with their adjacent groups to work on compatibility and connection
 
-User Interface | Server | Electronic hardware | Mechanical hardware | Database
---- | --- | --- | --- | ---
-Oreo | Nathan | Charlie | Andy | [name]
-Elijah | [name]| Tim | Hugo | [name]
- | |  | Gabriel | 
+User Interface | Server | Electronic hardware | Mechanical hardware | Database | Art n design
+--- | --- | --- | --- | --- | ---
+Oreo | Nathan | Charlie | Andy | Peter
+Elijah | | | Hugo |
+ | | | | Gabriel
+ | | | | Cynthia 
 
 
 (replace [name] with your name, and make a new row with |||)
 
 finish prototype before winter break ends
 ## User Interface
+wx mini app
 
 ## Server 
 
 Use paid server. decided on 10.24.2019 meeting
 - Host: undecided, see **`To Do`** `3.`.
-- OS: linux
+- Linux
 - Automation: bash auto command and python
 - Connection: the server will be a file server host. The server and clients and update and read files in the server.
 #### Python coding
