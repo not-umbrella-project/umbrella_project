@@ -17,7 +17,7 @@ Welcome! This is the offical repo and site for the **`SHSID Umbrella Project`** 
 ## Work distribution
 User interface, server, and electric hardware are connected. Members in each group is responsible to cooperate with their adjacent groups to work on compatibility and connection
 
-User Interface | Server | Electronic hardware | Mechanical hardware | Database | Art n design
+User Interface | Server | Electronic hardware | Mechanical hardware | Art n design
 --- | --- | --- | --- | --- | ---
 Oreo | Nathan | Charlie | Andy | Peter
 Elijah | | | Hugo |
@@ -27,7 +27,6 @@ Elijah | | | Hugo |
 
 (replace [name] with your name, and make a new row with |||)
 
-finish prototype before winter break ends
 ## User Interface
 wx mini app
 
