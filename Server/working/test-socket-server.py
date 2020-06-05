@@ -7,7 +7,7 @@ def ifStringLenGreaterThan3(a):
 
 import socket
 HOST = ''
-PORT = 33081
+PORT = 33080
 no_data = 0
 while 1:
     s=socket.socket(socket.AF_INET, socket.SOCK_STREAM)

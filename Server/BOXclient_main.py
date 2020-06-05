@@ -43,20 +43,23 @@ def talk_to_server(server_address, server_port, egress_message):
     data = s.recv(4096)
     ingress_message = data.decode()
     #return ingress_message
-    return (ingress_message, type(ingress_message))
     print("disconnect")
     s.close()
+    return (ingress_message, type(ingress_message))
 
 
-print(talk_to_server('192.168.1.13', 33080,"aa"))
+print(talk_to_server('127.0.0.1', 33080,"0afdfdsf"))
+time.sleep(0.1)
+print(talk_to_server('127.0.0.1', 33080,"dfsd"))
 
-"""
-print(talk_to_server('34.80.90.238', 33080,"aa\n"))
-print("also breaked")
 
-print(talk_to_server('34.80.90.238', 33080,"aa\n"))
-print("sregr")
-print(talk_to_server('34.80.90.238', 33080,"aa\n"))
 
 
 """
+print(talk_to_server('34.80.90.238', 33080,"Joe"))
+
+print(talk_to_server('34.80.90.238', 33080,"奥利给"))
+
+print(talk_to_server('34.80.90.238', 33080,"aa\n"))
+"""
+

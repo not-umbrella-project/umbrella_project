@@ -174,12 +174,12 @@ while 1:
                     print("not data")
             else:
                 d= data.decode()
-            if d[1]==0:#borrow
-                sent = handleBorrow(d.strip(d[1]))
-            elif d[1]==1: #return
-                sent = handleReturn(d.strip(d[1]))
-            print("sent data" + sent)
-            conn.sendall(sent.encode())
+            if d[0]==str(0):#borrow
+                sent = handleBorrow(d.strip(d[0]))
+            elif d[0]==str(1): #return
+                sent = handleReturn(d.strip(d[0]))
+            conn.sendall(str(sent).encode())
+            print("sent data" + str(sent))
         except:
             print("Disconnected by",addr)
             break
