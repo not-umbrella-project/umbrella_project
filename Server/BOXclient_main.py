@@ -48,18 +48,15 @@ def talk_to_server(server_address, server_port, egress_message):
     return (ingress_message, type(ingress_message))
 
 
-print(talk_to_server('127.0.0.1', 33080,"0afdfdsf"))
-time.sleep(0.1)
-print(talk_to_server('127.0.0.1', 33080,"dfsd"))
 
 
 
 
-"""
-print(talk_to_server('34.80.90.238', 33080,"Joe"))
-
-print(talk_to_server('34.80.90.238', 33080,"奥利给"))
-
-print(talk_to_server('34.80.90.238', 33080,"aa\n"))
-"""
+while 1:
+    print(talk_to_server('34.80.90.238', 33080,"Joe"))
+    time.sleep(0.1)
+    print(talk_to_server('34.80.90.238', 33080,"奥利给"))
+    time.sleep(0.1)
+    print(talk_to_server('34.80.90.238', 33080,"NAME TEST"))
+    time.sleep(0.1)
 
