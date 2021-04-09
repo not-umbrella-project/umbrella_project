@@ -166,7 +166,7 @@ while 1:
         print('debug: 2nd while')
         try:
             data = conn.recv(4096)
-            print("data recieved:",data)
+            print("data received:",data)
             if not data:
                 not_data+=1
                 if not_data> 10:
